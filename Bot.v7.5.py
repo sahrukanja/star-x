@@ -9,31 +9,31 @@ from gtts import gTTS
 
 
 cl = LINETCR.LINE()
-cl.login(token="EopxlGUaTxY2kBlfN9A0.1InGNGZn7NNY7fUrZGx9ua.UfOImWIBt/YBH9Tvw3k0vF0OhteAZK0jMGOfjrGNNXY=")
+cl.login(token="Ertr3gWsc4BqerFyB081.0nuFS/UsYwYTC6oT5M6u0q.MxrJeZ9Kkbv7CuMIZF3gT1bM52VA6PTiqYwa8h7/BpY=")
 cl.loginResult()
 
 kt = LINETCR.LINE()
-kt.login(token="EogZ0YwAI3By9i6jjTt7.avnzqOTQntgFkB+/jodCLW.TBt5qQXQ7xq+CCXsfpwxfyMLyrYqChOfb4qwZvsFeIo=")
+kt.login(token="Eq5MJDuBdeiP1qHBVbC0.ZNUI6x++aLWVF3KzlVxx8a.HPVYmhABVOky4GpymPw8Ec576L3OJboV2s7ltCThSsY=")
 kt.loginResult()
 
 ks = LINETCR.LINE()
-ks.login(token="EopP5w83zP4ByTmx1pV3.A+SYHpfmOT4uDbrwN7S4CW.93i0kpsFakakyrHmncNPW0/AUvZ0iHHZKLqXGcdE9m0=")
+ks.login(token="EqCp6JikRiMMIjLoBl9a.n/D2uYrEfNuqG6bbPgbp/G.cgBHRVWuyAEdpEEIWdAboAR+gAhV5DZOlVxbVxw8Wss=")
 ks.loginResult()
 
 ki = LINETCR.LINE()
-ki.login(token="Eofcf0oFHyS2YkfaOwYa.sInuoTkVfNhUjQU4KarLUG.8Gn5ev51r7L++XIPqOyAX3J7jkNhCF0O9DUPq3v88c8=")
+ki.login(token="EqiO6gGt2zZE8bLgVjje.BtgskIPTkqlnkVidqtaJpG.o38ovvh9K1LjddnjWdn+XfwnMKpqhBit+DTMUHa/12g=")
 ki.loginResult()
 
 kk = LINETCR.LINE()
-kk.login(token="EonpavFuyNA4Maz85kSe.8OCv7eAgFOIywa6B/lsWlG.Rwgb1KZ8f9ywfcd13XyuQN4h/i3y3E73g9dhMcG8ZV0=")
+kk.login(token="ErOE3aCBrYgJYhi8uDRb.41U3Aprx0Gk/e5ejtsoDgW.btbW+b/o8NUf2aXs6rxDgAN6B7Q//PrkAki5Kf5T3ps=")
 kk.loginResult()
 
 kc = LINETCR.LINE()
-kc.login(token="EoLmyQch90U9NioyEMS0.B8vxriASm6+uB38nHjfgma.kZv2yQAVwGz0rS3MR8D1SI9Z7vCVGC4bwWZ7JfD3+0o=")
+kc.login(token="EqExgjPtC7TmzRO6Igb0.9T/PGPFdadrWbCl3Gzx/Ga.bewTJcW222ZleLUZXFT9pVFXt6WRqGReoR6YiHju2Kg=")
 kc.loginResult()
 
 kl = LINETCR.LINE()
-kl.login(token="EoTlS5nksaNWhxHL5OSb.jd1h+vbUYLjvszUFzf1zwW.99ylTDgq3Ck4B9f+8014YtjbScma7iNkk0k6TGZAgsQ=")
+kl.login(token="Er6AEpCCbGxmnUnW9mMf.8xqyonc7QGpg4SKhcRUsVW.FAmnTe+BqM23m7rO+vFCFUNgc0oeBGYn7ZxaOEyeazw=")
 kl.loginResult()
 
 print "=============SHINGAMI-TEAM============="
@@ -42,7 +42,7 @@ sys.setdefaultencoding('utf-8')
 
 helpMessage= """ ╔═══════════════════
 ╠ 
-╠     ✍️Public Command✍️
+╠     Public Command
 ╠ 
 ╠❂͜͡➣ Lyric [][]
 ╠❂͜͡➣ Music [][]
@@ -80,15 +80,15 @@ helpMessage= """ ╔═══════════════════
 ╠ 回Help4 (Setting Bot)回
 ╠ 回Help5 (Broadcast Commands)回
 ╠ 
-╠ Creator by : Muhammad Fahmi Ridhani
-╠ Link : http://line.me/ti/p/~fahmi_077
+╠ SepriBot Protect modifed
+╠ Link : http://line.me/ti/p/~sepriche
 ╠ 
 ╚═══════════════════
 """
 
 helpinvite= """╔═══════════════════
 ╠
-╠     ✤INVITE BOT COMMANDS✤
+╠     INVITE BOT COMMANDS
 ╠
 ╠回 Join all [Untuk Memanggil Semua Asist]
 ╠回 Bye [Untuk Mengeluarkan Semua Asist]
@@ -103,7 +103,7 @@ helpinvite= """╔═══════════════════
 
 helppro= """╔═══════════════════
 ╠
-╠     ✍️PROTECT COMMANDS✍
+╠     PROTECT COMMANDS
 ╠️
 ╠回 Protect:low
 ╠回 Protect:hight
@@ -120,7 +120,7 @@ helppro= """╔═══════════════════
 
 helpkick= """╔═══════════════════
 ╠
-╠     ✤KICKER COMMANDS✤
+╠     KICKER COMMANDS
 ╠
 ╠回 Nk [Tag Target]
 ╠回 Vkick [Tag Target]
@@ -136,7 +136,7 @@ helpkick= """╔═══════════════════
 
 helpsystem= """╔═══════════════════
 ╠
-╠     ✤SYSTEM COMMANDS✤
+╠     SYSTEM COMMANDS
 ╠
 ╠回 Runtime
 ╠回 System
@@ -161,7 +161,7 @@ helpsystem= """╔═══════════════════
 
 helpsetting= """╔═══════════════════
 ╠
-╠     ✤SETTING BOT COMMANDS✤
+╠     SETTING BOT COMMANDS
 ╠
 ╠回 Bot1 rename:[text]
 ╠回 Bot2 rename:[text]
@@ -180,7 +180,7 @@ helpsetting= """╔═══════════════════
 
 helpbc= """╔═══════════════════
 ╠
-╠     ✍️BROADCASTING✍️
+╠     BROADCASTING
 ╠
 ╠❂͜͡➣ Pm cast   [text]
 ╠❂͜͡➣ Broadcast [text]
@@ -204,9 +204,9 @@ autocancel = {}
 autoinvite = []
 autoleaveroom = []
 targets = []
-Bots=[mid,Amid,Bmid,Cmid,Dmid,Emid,Fmid,"ud7a8fbcc2af037c2c5bf181b89fda5f7","ue027db6fbfa316a7ec28ed8d2cc2757d"]
-admin = ["ud7a8fbcc2af037c2c5bf181b89fda5f7","ue027db6fbfa316a7ec28ed8d2cc2757d"]
-owner = ["ud7a8fbcc2af037c2c5bf181b89fda5f7","ue027db6fbfa316a7ec28ed8d2cc2757d"]
+Bots=[mid,Amid,Bmid,Cmid,Dmid,Emid,Fmid,"u61a9b5ce8de3eb51a859410c9834e5c8","u9f09cfcb17d037e2936b751bd9d40ead"]
+admin = ["u61a9b5ce8de3eb51a859410c9834e5c8","u9f09cfcb17d037e2936b751bd9d40ead"]
+owner = ["u61a9b5ce8de3eb51a859410c9834e5c8","u9f09cfcb17d037e2936b751bd9d40ead"]
 creator=["ud7a8fbcc2af037c2c5bf181b89fda5f7"]
 wait = {
     'contact':False,
