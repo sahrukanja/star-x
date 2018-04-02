@@ -9,31 +9,31 @@ from gtts import gTTS
 
 
 cl = LINETCR.LINE()
-cl.login(token="Ertr3gWsc4BqerFyB081.0nuFS/UsYwYTC6oT5M6u0q.MxrJeZ9Kkbv7CuMIZF3gT1bM52VA6PTiqYwa8h7/BpY=")
+cl.login(token="ErVlZpidK8OxjTFAsYQ0.x1BTzXeup9CXgRy8mCEjqa.oWNxN3iFfnXeQ5J2yHjLYJHdE4DxRAxYMbc13FbivgY=")
 cl.loginResult()
 
 kt = LINETCR.LINE()
-kt.login(token="Eq5MJDuBdeiP1qHBVbC0.ZNUI6x++aLWVF3KzlVxx8a.HPVYmhABVOky4GpymPw8Ec576L3OJboV2s7ltCThSsY=")
+kt.login(token="ErbKpXD3YgXKm9dPSxu2.X+8NWqB1KSv14XpEP4vXuG.ibv+GNfAQqKaRU2HSbP2EwkkYCRieQMXHcisqWCFXqk=")
 kt.loginResult()
 
 ks = LINETCR.LINE()
-ks.login(token="EqCp6JikRiMMIjLoBl9a.n/D2uYrEfNuqG6bbPgbp/G.cgBHRVWuyAEdpEEIWdAboAR+gAhV5DZOlVxbVxw8Wss=")
+ks.login(token="ErmpNoxyZ90Xlhp0DH97.yWsnCHc5+xLMYVt+Dy4DzW.xngcO12UYccaXcFaD9mqz+Z30ZbqY07fXsr8r/Kji78=")
 ks.loginResult()
 
 ki = LINETCR.LINE()
-ki.login(token="EqiO6gGt2zZE8bLgVjje.BtgskIPTkqlnkVidqtaJpG.o38ovvh9K1LjddnjWdn+XfwnMKpqhBit+DTMUHa/12g=")
+ki.login(token="ErJI74wgX1bXW2OkjMCe.IKUNvTt9recbT1PQTceKJG.0ubl6rOOC0ImTtIyC16Wx5W6wfjVKqEhRCEKhgsWxfM=")
 ki.loginResult()
 
 kk = LINETCR.LINE()
-kk.login(token="ErOE3aCBrYgJYhi8uDRb.41U3Aprx0Gk/e5ejtsoDgW.btbW+b/o8NUf2aXs6rxDgAN6B7Q//PrkAki5Kf5T3ps=")
+kk.login(token="ErykliUHcAGdm5u45ead.UdOEshX6i9uwwi7Q0jFYRq.HKhK/CjOk/Qxzuj0IaNF7d4I6V+DHY2FpJxDzMAqWwY=")
 kk.loginResult()
 
 kc = LINETCR.LINE()
-kc.login(token="EqExgjPtC7TmzRO6Igb0.9T/PGPFdadrWbCl3Gzx/Ga.bewTJcW222ZleLUZXFT9pVFXt6WRqGReoR6YiHju2Kg=")
+kc.login(token="ErzuguQCF2yHovBJDf3f.8xqyonc7QGpg4SKhcRUsVW.VSrhGXUa9oH3vnQBuoc0x5b6gSvSsq+FcJ29+YmhWc8=")
 kc.loginResult()
 
 kl = LINETCR.LINE()
-kl.login(token="Er6AEpCCbGxmnUnW9mMf.8xqyonc7QGpg4SKhcRUsVW.FAmnTe+BqM23m7rO+vFCFUNgc0oeBGYn7ZxaOEyeazw=")
+kl.login(token="ErjFS8NU61loX1AFm1z6.HQh4RpqRYzqfruxsRHZtfG.EAkSywFM1OeDViV7qEADzqhJEghCp85mFm6n8mrE6ok=")
 kl.loginResult()
 
 print "=============SHINGAMI-TEAM============="
